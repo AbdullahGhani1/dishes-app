@@ -17,9 +17,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: inherit;
+    height: 250px;
     padding: 10px;
   
+}
+img{
+    height: 150px;
 }
 .Dishes img
 {
