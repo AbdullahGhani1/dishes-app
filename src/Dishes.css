@@ -19,10 +19,11 @@
     align-items: center;
     height: 250px;
     padding: 10px;
-  
+    border-radius: 3px;
+	margin-bottom: 1rem; 
 }
 img{
-    height: 150px;
+    height: fit-content;
 }
 .Dishes img
 {

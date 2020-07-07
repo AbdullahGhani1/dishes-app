@@ -1,5 +1,9 @@
+.Dishdex{
+    text-align: center;
+}
+
 .Dishdex-cards{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-evenly; 
     flex-wrap: wrap;
 }
