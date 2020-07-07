@@ -8,9 +8,23 @@
     background-color: #fff;
     border-radius: 3px;
 }
-img 
+.Dishes-tittle{
+    margin-bottom: 1rem;
+    font-weight: bold;
+    font-size: 2rem;
+}
+.Dishes-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+  
+}
+.Dishes img
 {
-    width: auto;
-    height: 150px;
-
+    transition: all ease 500ms;
+}
+.Dishes img:hover{
+    transform:  scale(1.25);
+    opacity: 0.6;
 }

@@ -7,8 +7,11 @@ class Dishes extends Component {
 
     return (
       <div className="Dishes">
-      <h1>{name}</h1>
+      <h1 className="Dishes-tittle">{name}</h1>
+      <div className="Dishes-image">
       <img src={imgs} alt=""/>
+
+      </div>
       </div>
     );
   }

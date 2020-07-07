@@ -7,7 +7,12 @@ class Dishdex extends Component {
         dishes:[
             {name:'Biryani' ,  imgs:require('./imgs/biryani.png')},
             {name:'Burger'  ,   imgs:require('./imgs/burger.png')},
-            {name:'Tikkah'  ,  imgs:require('./imgs/Tikka.png')}
+            {name:'Tikkah'  ,  imgs:require('./imgs/Tikka.png')},
+            {name:'Chaplli Kebab'  ,  imgs:require('./imgs/chapli-kebab.png')},
+            {name:'Cusine'  ,  imgs:require('./imgs/cuisine.png')},
+            {name:'Tandoori Chicken'  ,  imgs:require('./imgs/tandoori-chicken.png')}
+
+
         ]
 
     };
