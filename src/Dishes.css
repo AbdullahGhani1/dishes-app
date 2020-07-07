@@ -17,9 +17,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 250px;
+    height: fit-content;
+    padding: 10px;
   
 }
+
 .Dishes img
 {
     transition: all ease 500ms;
